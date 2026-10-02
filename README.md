@@ -7,7 +7,7 @@
 ---
 ## Tabela de Exercícios e Comprovações
 
-| Num | Conteúdo | Status | Comprovação |
+| Num | Atividade | Conteúdo | Status | Comprovação |
 | --- | --- | --- | --- | --- |
 | 01 | Introdução ao Python | Introdução a sintaxe, print, int e input. | Aprovado | [Ver Imagem](./prints/print1.png) |
 | 02 | Variaveis  | Criação e Atribuição; Tipos de dados em Python. | Aprovado | [Ver Imagem](./prints/print2.png) |
@@ -17,6 +17,6 @@
 ---
 ## Resumo dos Conceitos Praticados
 Descreva em 1 ou 2 parágrafos o que você aprendeu:
-* Quais foram as principais dificuldades? Lógica para responder os `desafios` e a `sintaxe`.
-* Quais estruturas foram mais utilizadas? `if/else`,
-`for/while`, `True/False` .
+* Quais foram as principais dificuldades? Lógica para responder os `desafios` e  compreender a `sintaxe`.
+* Quais estruturas foram mais utilizadas?  `if/else`, `int/input`,
+`True/False`.
